@@ -1,7 +1,9 @@
 # The Global Kitchen API
 
-A RESTful API for managing a digital cookbook, built with Node.js, Express, and MongoDB.
-
+**Student:** NAI FAITH NJANG
+**Matricule** LMUI2646929 
+**Course:** Node.js and MongoDB  
+**Level** 400
 ## Tech Stack
 
 - **Runtime:** Node.js
